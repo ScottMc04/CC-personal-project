@@ -187,3 +187,25 @@ footer a:hover {
     padding: 3px;
     transform: rotate(-135deg);
 }
+
+main {
+    text-align: center;
+    margin: 7% 25%;
+    padding: 2em 3em;
+    background-color: #1c1c1c;
+    border-radius: 20px;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+}
+main a {
+    text-decoration: none;
+    color: #eae7dc;
+}
+main h2 {
+    margin: 0;
+    text-decoration: underline;
+    padding-bottom: 2em;
+}
+.cLinks {
+    text-align: left;
+}
