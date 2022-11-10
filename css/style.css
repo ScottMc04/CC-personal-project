@@ -204,8 +204,18 @@ main a {
 main h2 {
     margin: 0;
     text-decoration: underline;
-    padding-bottom: 2em;
 }
 .cLinks {
     text-align: left;
+    padding: 0 24%;
+}
+.fa-brands {
+    padding: 10px;
+    font-size: 40px;
+    color: #e22016;
+}
+.fa-regular {
+    padding: 10px;
+    font-size: 40px;
+    color: #e22016;
 }
